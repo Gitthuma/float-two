@@ -21,7 +21,10 @@ body {
   padding: 1em;
 }
 .float {
+  float: left;
+  margin-right: 10px;
 }
 
 .below {
+  clear: left;
 }
